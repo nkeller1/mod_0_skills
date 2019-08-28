@@ -1,0 +1,17 @@
+Menu
+
+attributes
+pizzaTopping (array)
+crust type (array)
+preBuiltPizza (array)
+byoPizza (string)
+locServerStation (integer)
+locCustomerTable (integer)
+glutenFree (string)
+
+
+methods
+changePizzaTopping (removes pizzaTopping item from array and replaces with new pizzaTopping item)
+changeLocation (moves menu from locServerStation to locCustomerTable)
+adviseGlutenFree (designates items on menu as 'Gluten Free' in red text)
+addTopping (adds additional toppings to existing preBuilt or byoPizza)
