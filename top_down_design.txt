@@ -1,0 +1,65 @@
+correctHow to become a Turing Student
+
+1. Apply to Turing
+  1.1 submit your basic information
+    1.1.1 full name
+    1.1.2 date of birth
+    1.1.3 address
+    1.1.4 blood type (joke)
+  1.2 provide your work history
+    1.2.1 provide dates of employment
+    1.2.2 provide details of job history
+      1.2.2.1 provide skills learned on job
+    1.2.3 provide previous education
+      1.2.3.1 provide any awards given during previous education
+  1.3 complete logic quiz
+    1.3.1 answer eight questions
+      were at least six questions answered correctly?
+        yes:
+        1.3.1.1 approve and move onto step 1.4
+        no:
+        1.3.1.1 deny and move on to *unknown step*
+  1.4 interview with a Turing staff member
+    1.4.1 go over work history in more detail
+      1.4.1.1 provide answers to any gaps in work history
+    1.4.2 ask probing questions pertaining to "why Turing? why now?"
+    1.4.3 complete in person log quiz
+      1.4.3.1 six questions
+        1.4.3.1.1 student may use any resources immediately available to them
+2. Complete Mod 0
+  2.1 Complete six remote class sessions and homework
+    2.1 Session 1: Expectations, Keyboard Shortcuts, Googling
+      2.1.1 Expectations
+        2.1.1.1 provide proper expectations for Turing environment
+      2.1.2 Keyboard shortcuts
+        2.1.2.1 master all 27 keyboard shorts cuts and encourage further exploration
+      2.1.3 Google
+        2.1.3.1 provide info on how to properly google for answers
+        2.1.3.2 show good results and bad results
+    2.2 Session 2: Terminal, File/folder Structure, Git Basics
+      2.2.1 Terminal
+        2.2.1.1 master basic terminal commands
+          2.2.1.1.1 mkdir
+          2.2.1.1.2 touch
+          2.2.1.1.3 ls
+          2.2.1.1.4 cd and cd..
+          2.2.1.1.5 cat
+          2.2.1.1.6 pwd
+          2.2.1.1.7 rm and rm -rf
+  2.2 complete Mod 0 technical assessment
+    did student complete assessment?
+      yes:
+      2.2.1 student completed with satisfactory score
+        2.2.1.1 allow student to continue on to capstone
+      2.2.2 student completed but needs improvement
+        2.2.2.1 advise student to correct error
+          did student correct errors correctly?
+            yes:
+            2.2.2.1.1 allow into Turing
+            no:
+            2.2.2.1.1 advise student to repeat mod 0
+      no:
+      2.2.1 student did not complete with satisfactory score
+        2.2.1.1 advise student to repeat mod 0
+
+3. Complete the capstone
