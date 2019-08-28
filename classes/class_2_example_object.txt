@@ -1,0 +1,15 @@
+Whiskey Sour
+
+attributes
+iceCold (true)
+straw (false)
+alcoholic (true)
+cupMaterial (glassRocks, glassPint, glassShot, plasticSoda, plasticToGo)
+lid (false)
+
+
+methods
+addIce (adds ice to whiskeySour)
+provideStraw (changes value to False)
+checkId (beverage = alcoholic, 'checkId' output displayed)
+toGo (n/a)
