@@ -1,0 +1,17 @@
+Tony's Pizza menu
+
+attributes
+pizzaTopping (sausage, anchovies, pepperoni, green pepper, jalapeño, tomato, nil)
+crust type (thin, deepDish, hand tosses, newYorkStyle)
+preBuiltPizza (meatLover, allVeggie, Italian, Margareta)
+byoPizza ("add choice of toppings to a pizza)
+locServerStation (0)
+locCustomerTable (1)
+glutenFree ("list item as GF")
+
+
+methods
+changePizzaTopping anchoviesMeatLover (remove anchovies from meatLover and replace with nil)
+changeLocation to locCustomerTable (moves menu from 0 to 1)
+adviseGlutenFree (designates anchovies as 'Gluten Free' in red text)
+addSausage to allVeggie(adds sausage toppings to existing allVeggie pizza)
