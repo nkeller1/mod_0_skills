@@ -4,7 +4,7 @@ attributes
 iceCold (true)
 straw (false)
 alcoholic (true)
-cupMaterial (glassRocks, glassPint, glassShot, plasticSoda, plasticToGo)
+cupMaterial (glassRocks)
 lid (false)
 
 
