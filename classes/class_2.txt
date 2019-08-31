@@ -4,12 +4,12 @@ attributes
 iceCold (boolean)
 straw (boolean)
 alcoholic (boolean)
-cupMaterial (array)
-lid (string)
+cupMaterial (string)
+lid (boolean)
 
 
 methods
-addIce (adds ice to beverage)
+addIce (changes the value of iceCold to true)
 provideStraw (changes value to True)
 checkId (registers beverage as alcoholic and provides "check id" output to server)
 toGo (changes cupMaterial to 'plastic toGo' and changes lid to 'true')
