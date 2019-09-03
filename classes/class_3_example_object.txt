@@ -1,0 +1,12 @@
+Paul Fredrick Button Down
+
+position (onBody)
+clean (true)
+color (blue with white stripes)
+collar (true)
+tie (true)
+
+wear (changes position of shirt from "drawer" to "onBody")
+wash (change value of "clean" to true)
+changeColor (change color of the shirt to "blue with white strips)
+addTie (change collar and tie value to true)

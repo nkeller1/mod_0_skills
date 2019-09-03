@@ -1,0 +1,12 @@
+shirt
+
+position (string)
+clean (boolean)
+color (string)
+collar (boolean)
+tie (boolean)
+
+wear (changes position of shirt from "drawer" to "onBody")
+wash (changes value of "clean" to true)
+changeColor (changes the color of the shirt)
+addTie (change both collar and tie value to true)
